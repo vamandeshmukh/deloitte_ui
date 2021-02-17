@@ -51,6 +51,9 @@ var Dog = /** @class */ (function (_super) {
         _this.color = color;
         return _this;
     }
+    Dog.prototype.bark = function () {
+        console.log('Woof! Woof!');
+    };
     Dog.prototype.speak = function () {
         console.log(this.name + ' barks.');
     };
