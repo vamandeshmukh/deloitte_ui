@@ -21,4 +21,6 @@ interface Person {
  
  const c1: Customer = new Customer();
  c1.display();
+
+ console.log(namesz);
  

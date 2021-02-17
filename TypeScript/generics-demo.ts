@@ -27,10 +27,10 @@ function combineArrays<T>(a1: T[], a2: T[]): T[] {
     return [...a1, ...a2];
 }
 
-const names = combineArrays<string>(
+const namesz = combineArrays<string>(
     ['hari', 'krish'], ['shiv', 'amar']
 );
-console.log(names);
+console.log(namesz);
 
 const numbers = combineArrays([10, 20, 30], [40, 50]);
 console.log(numbers);

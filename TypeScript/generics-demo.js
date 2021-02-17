@@ -28,7 +28,7 @@ var __spreadArrays = (this && this.__spreadArrays) || function () {
 function combineArrays(a1, a2) {
     return __spreadArrays(a1, a2);
 }
-var names = combineArrays(['hari', 'krish'], ['shiv', 'amar']);
-console.log(names);
+var namesz = combineArrays(['hari', 'krish'], ['shiv', 'amar']);
+console.log(namesz);
 var numbers = combineArrays([10, 20, 30], [40, 50]);
 console.log(numbers);

@@ -15,3 +15,4 @@ var Customer = /** @class */ (function () {
 }());
 var c1 = new Customer();
 c1.display();
+console.log(namesz);
