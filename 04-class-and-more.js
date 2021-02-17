@@ -17,3 +17,15 @@ let book = new Book('Let Us C', 'Kanitkar');
 
 book.read2();
 book.read();
+
+async function fun() {
+    await statement;
+};
+
+let fun = async () => {
+    await statement;
+};
+
+fun();
+
+

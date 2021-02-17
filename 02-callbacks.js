@@ -58,4 +58,11 @@ fun((doFun) => { console.log(doFun.name) }); // callback function definition
 // }, 2000);
 
 
+// use cases for call backs 
+
+1
+2
+3
+
+
 
